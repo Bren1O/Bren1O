@@ -1,5 +1,14 @@
-## Hi there 👋
+👋 Brenton Miller
+Mechanical Engineer · Aerospace R&D · Gold Coast, Australia
 
+Building things that fly, spin, and (occasionally) explode safely. Passionate about FEA, CFD, robotics, and open-source engineering tools.
+
+About me
+ - Mechanical Engineer at Dovetail Aerospace, working on static thrust test systems, DMU assembly, and thermal CFD modelling
+ - B.E. (Mech) + B.Sc. (Applied Math) with First Class Honours — University Medal, Griffith University
+ - Undergraduate research in CFRP damage detection using thermography and machine learning at the ADaPT facility
+ - Teaching STEM and programming as a Junior Engineer educator
+ - Currently learning: OpenFOAM, ROS2 Jazzy, advanced CFD theory
 <!--
 **Bren1O/Bren1O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
